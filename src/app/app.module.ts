@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 // The following import and corresponding declaration
-// are missing from Ddeborah Kruata's August 2017 edition of APM-Start
+// are missing from Deborah Kruata's August 2017 edition of APM-Start
 // Nothing bad happens until you start the application using:
 // ng serve --open --verbose --vendor-chunk --extract-css --prod
 import { WelcomeComponent} from './home/welcome.component';
